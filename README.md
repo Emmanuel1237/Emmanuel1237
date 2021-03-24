@@ -4,8 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Emmanuel1237" alt="Emmanuel" /> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel1237&row=2&column=3&title=Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy) -->
-- 🔭 I’m currently working on 		
-- 🌱 I’m currently learning Blockchain technology
+<!--
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning -->
 
 
 
